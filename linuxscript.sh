@@ -5,3 +5,4 @@ whoami
 echo "current working location"
 pwd
 echo "adding new line"
+echo "adding new line2"
