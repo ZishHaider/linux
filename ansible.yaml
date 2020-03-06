@@ -1,4 +1,4 @@
-- name: test playbook
+- name: test playbooks
   hosts: all
   become: yes
   become_user: root
