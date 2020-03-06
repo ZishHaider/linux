@@ -1,4 +1,4 @@
-echo "checking hostnames"
+echo "checking hostnamess"
 hostname
 echo "printing user"
 whoami
