@@ -7,7 +7,6 @@ stages {
 	stage('Checkout external proj') {
         steps {
             git branch: 'master',
-                credentialsId: '4a418635-36bb-4992-81cc-25d5cd5f2af7',
                 url: 'https://github.com/bschethan86/linux.git'
 
             sh "ls -lat"
