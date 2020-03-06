@@ -1,5 +1,5 @@
 <?php
-echo "PHP loaded file successfully <br><br>";
+echo "PHP loaded file successfull <br><br>";
 
 include 'dbconfig.php';
 
