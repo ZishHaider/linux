@@ -7,7 +7,7 @@ stages {
 	stage('Checkout external proj') {
         steps {
             git branch: 'master',
-                url: 'https://github.com/bschethan86/linux.git'
+                url: 'https://github.com/ZishHaider/linux.git'
 
             sh "ls -lat"
         }
